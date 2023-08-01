@@ -1,0 +1,18 @@
+{
+	"name" : "HoMM3 Campaigns remade",
+	"description" : "Heroes of Might and Magic III Re-make of original Campaigns projects.\r\n\r\n Available campaigns: Dragon Slayer, Armageddon's Blade, Long Live the Queen, Dungeons and Devils, Spoils of War.\r\n\r\n Start the game, select New Game -> New Campaign -> The Restoration of Erathia/Armageddon's Blade and choose desired campaign. \r\n\r\nDo not run the map from 'Custom' option as it will break some rules of the game.",
+	"author" : "Louis_Cyphre, IlyaNev",
+	"contact" : "http://heroescommunity.com/viewthread.php3?TID=46053, http://heroescommunity.com/viewthread.php3?TID=44079",
+	"version" : "1.0.0",
+	"modType" : "Other",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"compatibility" :
+	{
+		"min" : "1.3.0"
+	},	
+	"changelog" :
+	{
+		"1.0.0"   : [ "Initial release" ]
+	}
+}
